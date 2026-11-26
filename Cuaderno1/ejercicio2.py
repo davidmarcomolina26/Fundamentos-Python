@@ -1,0 +1,1 @@
+print ('nombre: Pedro Martin, edad:25')
